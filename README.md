@@ -2,7 +2,7 @@
 
 - Graduando em Ciência da Computação pela UFRGS(Universidade Federal do Rio Grande do Sul), atualmente no primeiro semestre.
 
-- Estudando a linguaguem Python por conta própria e a linguaguem DrRacket na universidade.
+- Estou estudando a linguaguem JavaScript, CSS6 e HTML5 por conta própria, além da linguaguem Racket na universidade.
 
 - Ele/dele
 
