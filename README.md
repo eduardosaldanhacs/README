@@ -1,8 +1,8 @@
  Olá! eu sou o Eduardo :D 
 
-- Graduando em Ciência da Computação pela UFRGS(Universidade Federal do Rio Grande do Sul), atualmente no segundo semestre.
+- Graduando em Ciência da Computação pela UFRGS(Universidade Federal do Rio Grande do Sul), atualmente no terceiro semestre.
 
-- Estou estudando a linguaguem JavaScript, CSS6 e HTML5 por conta própria, além da linguaguem Racket na universidade.
+- Estou aprendendo HTML, CSS e Bootstrap, além das linguagens de programação JavaScript e PHP.
 
 - Ele/dele
 
